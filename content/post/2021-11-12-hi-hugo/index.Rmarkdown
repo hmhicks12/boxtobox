@@ -1,0 +1,19 @@
+---
+title: Hi Hugo
+author: ''
+date: '2021-11-12'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-11-12T13:53:14-06:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+hello this is a test
