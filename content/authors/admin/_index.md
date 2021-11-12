@@ -1,8 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 
-email: ""
 highlight_name: true
 
 
