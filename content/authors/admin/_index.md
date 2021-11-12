@@ -26,6 +26,6 @@ social:
 superuser: true
 title: BOX TO BOX
 ---
-# About
+
 Description tbd
 
