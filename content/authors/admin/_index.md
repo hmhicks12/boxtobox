@@ -27,7 +27,7 @@ superuser: true
 title: BOX TO BOX
 ---
 
-Welcome to the blog! We here at Box to Box aim to provide interesting soccer articles that pair closely with our podcast and statistical analyses. All of the articles you find here will be written by either Max, Thomas, of Harry: the three hosts of the Box to Box podcast. We three friends have shared our thoughts on soccer among ourselves for years and have recently decided to share that conversation with all of you. We hope you find our content interesting and worthwhile and encourage you to engage with us and continue the conversation via our Twitter.
+Welcome to the blog! We here at Box to Box aim to provide interesting soccer articles that pair closely with our podcast and statistical analyses. All of the articles you find here will be written by either Max, Thomas, or Harry: the three hosts of the Box to Box podcast. We three friends have shared our thoughts on soccer among ourselves for years and have recently decided to share that conversation with all of you. We hope you find our content interesting and worthwhile and encourage you to engage with us and continue the conversation via our Twitter.
 
 Thanks for stopping by,
 
