@@ -6,7 +6,7 @@ slug: should-chelsea-sell-christian-pulisic
 categories: [Chelsea]
 tags: []
 subtitle: 'An Unfortunate Dilemma'
-summary: 'Christian Pulisic"s highs and lows provide Thomas Tuchel with a difficult challenge in the January transfer window. (Opinion)'
+summary: 'Christian Pulisic''s highs and lows provide Thomas Tuchel with a difficult challenge in the January transfer window. (Opinion)'
 authors: [Harry Hicks]
 lastmod: '2021-11-18T15:06:46-06:00'
 featured: yes
