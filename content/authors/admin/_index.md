@@ -20,9 +20,13 @@ social:
 - icon: itunes
   icon_pack: fab
   link: https://podcasts.apple.com/us/podcast/box-to-box-a-chelsea-fc-and-bayern-munich-podcast/id1579056772
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCrncIOgbmzhnWTGBrUIdpuA
 - icon: github
   icon_pack: fab
   link: https://github.com/hmhicks12
+
 superuser: true
 title: BOX TO BOX
 ---
