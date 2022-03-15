@@ -75,7 +75,7 @@ Let’s say Chelsea manages to sell Lukaku for his current Transfermarkt Market 
 ![](lukaku_sale_flow6.png)
 
 Using the flawed but relatively insightful market values found on Transfermarkt, we can calculate the effect of selling each Chelsea player to their bottom line. 
-![](transfermarktdata7.png)
+![](transfermarktdata(2)7.png)
 
 Players from the Academy (Mount and James), and players with low remaining amortization value as they’ve been at the club for years (Kanté and Jorginho), top the list along with players with high market value. 
 
